@@ -3,11 +3,10 @@
 
 ## Git和Githhub的使用
 
--Git是什么
--使用场景
--GitHub介绍
+- Git是什么
+- 使用场景
+- GitHub介绍
 
 ```
 let a = 1;
-
 ```
